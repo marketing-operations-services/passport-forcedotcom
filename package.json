@@ -27,8 +27,8 @@
     },
     {
       "name": "Jason Ghent",
-      "url":  "http://absurdnerd.com"
-      },
+      "url": "http://absurdnerd.com"
+    },
     {
       "name": "Fabian Jakobs",
       "email": "fabian@c9.io",
@@ -42,6 +42,7 @@
   "license": "BSD-3-Clause",
   "main": "./lib/passport-forcedotcom",
   "dependencies": {
+    "node-salesforce": "^0.8.0",
     "passport-oauth2": "1.3.x"
   },
   "engines": {
